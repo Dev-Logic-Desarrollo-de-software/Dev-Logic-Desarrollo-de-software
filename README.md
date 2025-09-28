@@ -5,10 +5,9 @@
 ---
 
 ## Tecnologías
-> - **Backend:** Python, Django, Flask
-> - **Frontend:** Vue
-> - **Base de datos:** MySQL
-
+> <p><strong>Backend:</strong> Python, Django, Flask</p>
+> <p><strong>Frontend:</strong> Vue</p>
+> <p><strong>Base de datos:</strong> MySQL</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-4.2-brightgreen?logo=django&logoColor=white" alt="Django" />
