@@ -15,3 +15,17 @@
   <img src="https://img.shields.io/badge/Vue.js-3.3-brightgreen?logo=vue.js&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+
+---
+
+## Proyectos
+
+Actualmente estamos desarrollando nuestros proyectos más destacados.  
+Próximamente podrás ver aquí nuestras aplicaciones de backend y desarrollo web.  
+Mantente atento a las novedades.
+
+---
+
+## Contacto
+Si quieres comunicarte con nosotros, puedes hacerlo a través del siguiente correo:  
+**Email:** contacto.devlogic@gmail.com
