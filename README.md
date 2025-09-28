@@ -1,4 +1,4 @@
-# ![Logo](logo-devlogic.png) Dev Logic - Desarrollo de Software
+# ![Logo](bannerdev.png) Dev Logic - Desarrollo de Software
 
 **Dev Logic** es una organización dedicada a crear proyectos innovadores de backend, análisis de datos y desarrollo web con Python, Flask, Django y más. Nuestro objetivo es entregar soluciones eficientes y profesionales, mostrando buenas prácticas de desarrollo.
 
