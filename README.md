@@ -1,31 +1,51 @@
 # ![Logo](bannerdev.png) Dev Logic - Desarrollo de Software
 
-**Dev Logic** es una empresa de desarrollo de software dedicada a crear soluciones innovadoras y eficientes. Nos enfocamos en proyectos de backend y desarrollo web utilizando tecnologías de última generación, aplicando buenas prácticas de desarrollo y estándares de calidad profesional.
+# Dev Logic
+
+**Dev Logic** es una empresa de desarrollo de software dedicada a crear soluciones innovadoras y eficientes.  
+Nos especializamos en **backend, desarrollo web y aplicaciones móviles**, utilizando tecnologías de última generación, buenas prácticas de desarrollo y estándares de calidad profesional.
 
 ---
 
 ## Tecnologías
-> <p><strong>Backend:</strong> Python, Django, Flask</p>
-> <p><strong>Frontend:</strong> Vue</p>
-> <p><strong>Base de datos:</strong> MySQL</p>
+
+> <p><strong>Frontend:</strong> React, React Native</p>  
+> <p><strong>Backend:</strong> FastAPI</p>  
+> <p><strong>Base de datos:</strong> PostgreSQL</p>  
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-4.2-brightgreen?logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-3.1.2-lightgrey?logo=flask&logoColor=black" alt="Flask" />
-  <img src="https://img.shields.io/badge/Vue.js-3.3-brightgreen?logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-0.73-61DAFB?logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
+---
+
+## Servicios
+
+- Desarrollo de **aplicaciones web modernas** con React + FastAPI  
+- Creación de **aplicaciones móviles multiplataforma** con React Native  
+- Diseño y desarrollo de **APIs escalables y seguras**  
+- Consultoría y soporte en proyectos de software  
 
 ---
 
 ## Proyectos
 
-Actualmente estamos desarrollando nuestros proyectos más destacados.  
-Próximamente podrás ver aquí nuestras aplicaciones de backend y desarrollo web.  
-Mantente atento a las novedades.
+Actualmente estamos trabajando en proyectos destacados de:  
+- Aplicaciones móviles personalizadas  
+- Plataformas web con backend robusto en FastAPI  
+- Integraciones con bases de datos PostgreSQL  
+
+Próximamente publicaremos repositorios y demostraciones.
 
 ---
 
 ## Contacto
-Si quieres comunicarte con nosotros, puedes hacerlo a través del siguiente correo:  
-**Email:** contacto.devlogic@gmail.com
+
+Si quieres comunicarte con nosotros:  
+- **Email:** contacto.devlogic@gmail.com  
+- **GitHub:** [Dev Logic](https://github.com/Dev-Logic-Desarrollo-de-software)  
+
+---
