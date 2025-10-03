@@ -1,4 +1,4 @@
-# ![Logo](banner.png) Dev Logic - Desarrollo de Software
+# ![Logo](bannerNuew.png) Dev Logic - Desarrollo de Software
 
 **Dev Logic** es una empresa de desarrollo de software dedicada a crear soluciones innovadoras y eficientes.  
 Nos especializamos en **backend, desarrollo web y aplicaciones móviles**, utilizando tecnologías de última generación, buenas prácticas de desarrollo y estándares de calidad profesional.
