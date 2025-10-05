@@ -1,4 +1,4 @@
-# ![Logo](bannerNuew.png) Dev Logic - Desarrollo de Software
+# ![Logo](bannerNuew.png)
 
 # Dev Logic – Desarrollo de Software a la Medida
 
