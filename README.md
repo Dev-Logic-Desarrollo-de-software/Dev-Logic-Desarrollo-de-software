@@ -1,49 +1,62 @@
 # ![Logo](bannerNuew.png) Dev Logic - Desarrollo de Software
 
-**Dev Logic** es una empresa de desarrollo de software dedicada a crear soluciones innovadoras y eficientes.  
-Nos especializamos en **backend, desarrollo web y aplicaciones móviles**, utilizando tecnologías de última generación, buenas prácticas de desarrollo y estándares de calidad profesional.
+# Dev Logic – Desarrollo de Software a la Medida
+
+**Dev Logic** es una empresa dedicada al desarrollo de software a la medida, especializada en crear soluciones digitales modernas, escalables y alineadas con las necesidades de cada cliente.  
+Diseñamos y construimos aplicaciones web, sistemas de gestión y herramientas personalizadas que impulsan la eficiencia y el crecimiento de negocios y emprendimientos.
+
+---
+
+## Enfoque
+
+Nos centramos en ofrecer **soluciones tecnológicas personalizadas**, aplicando buenas prácticas de desarrollo, metodologías ágiles y estándares de calidad profesional.  
+Cada proyecto es planificado, diseñado y desarrollado con un enfoque orientado a resultados, garantizando rendimiento, escalabilidad y facilidad de mantenimiento.
 
 ---
 
 ## Tecnologías
 
-> <p><strong>Frontend:</strong> React, React Native</p>  
-> <p><strong>Backend:</strong> FastAPI</p>  
-> <p><strong>Base de datos:</strong> PostgreSQL</p>  
-
 <p>
-  <img src="https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Native-0.73-61DAFB?logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-Backend-blue?logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Next.js-Frontend-black?logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
+**Backend:** Django REST Framework  
+**Frontend:** Next.js  
+**Base de datos:** PostgreSQL  
 
 ---
 
 ## Servicios
 
-- Desarrollo de **aplicaciones web modernas** con React + FastAPI  
-- Creación de **aplicaciones móviles multiplataforma** con React Native  
-- Diseño y desarrollo de **APIs escalables y seguras**  
-- Consultoría y soporte en proyectos de software  
+- Desarrollo de **aplicaciones web y sistemas de gestión**  
+- Diseño y construcción de **APIs escalables y seguras**  
+- Creación de **soluciones personalizadas** para empresas y startups  
+- **Asesoría técnica y consultoría** en desarrollo de software  
 
 ---
 
 ## Proyectos
 
-Actualmente estamos trabajando en proyectos destacados de:  
-- Aplicaciones móviles personalizadas  
-- Plataformas web con backend robusto en FastAPI  
-- Integraciones con bases de datos PostgreSQL  
+Actualmente trabajamos en proyectos que integran:
+- Plataformas web personalizadas con arquitectura modular  
+- Paneles administrativos con Next.js y Django REST Framework  
+- Integraciones seguras con bases de datos PostgreSQL  
 
-Próximamente publicaremos repositorios y demostraciones.
+Próximamente compartiremos demostraciones y repositorios abiertos.
 
 ---
 
 ## Contacto
 
-Si quieres comunicarte con nosotros:  
-- **Email:** contacto.devlogic@gmail.com  
+¿Quieres colaborar o solicitar un desarrollo personalizado?  
+Contáctanos:
+
+- **Correo:** contacto.devlogic@gmail.com  
 - **GitHub:** [Dev Logic](https://github.com/Dev-Logic-Desarrollo-de-software)  
 
 ---
+
+### © Dev Logic – Desarrollo de Software
+Desarrollamos soluciones personalizadas que impulsan el crecimiento de tu negocio.
